@@ -4,7 +4,7 @@
 
 curl statistics made simple
 
-![httpstat](https://repo.x-cmd.io/httpstat.svg)
+![httpstat](https://repo.x-cmd.io/httpstat.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,13 @@ x install httpstat
 - **最新版本**: `1.3.0` (2020-10-15)
 - **最近提交**: 2026-04-08
 - **Release 含资产**: 2 个
-- **发布时间**: 2020-10-15T13:06:22Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [httpstat-1.3.0-py3-none-any.whl](https://github.com/reorx/httpstat/releases/download/1.3.0/httpstat-1.3.0-py3-none-any.whl) | 7.7 KiB | `other` |
+| [httpstat-1.3.0.tar.gz](https://github.com/reorx/httpstat/releases/download/1.3.0/httpstat-1.3.0.tar.gz) | 6.5 KiB | `native/unknown` |
 
 ## 流行度
 
@@ -71,4 +77,4 @@ httpstat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:23:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:19:54Z._
