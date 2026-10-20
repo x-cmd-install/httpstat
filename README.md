@@ -43,11 +43,10 @@ Lowest-scoring checks:
 
 - **Latest**: `1.3.0` (2020-10-15)
 - **Last commit**: 2026-04-08
-- **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,219 · **Forks**: 393 · **Open issues**: 26 · **Contributors**: 6
+- **Stars**: 6,220 · **Forks**: 397 · **Open issues**: 26 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -57,19 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-24 | 0 | 0 | 1 | 0 | 0 | 10 |
-| last720d | 2024-10-29 | 0 | 0 | 2 | 0 | 0 | 11 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [httpstat-1.3.0-py3-none-any.whl](https://github.com/reorx/httpstat/releases/download/1.3.0/httpstat-1.3.0-py3-none-any.whl) | 7.7 KiB | `other` |
-| [httpstat-1.3.0.tar.gz](https://github.com/reorx/httpstat/releases/download/1.3.0/httpstat-1.3.0.tar.gz) | 6.5 KiB | `native/unknown` |
+| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-25 | 0 | 0 | 1 | 0 | 0 | 10 |
+| last720d | 2024-10-30 | 0 | 0 | 2 | 0 | 0 | 11 |
 
 ## Improve this data
 
@@ -80,4 +72,4 @@ Install metadata for httpstat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T02:37:28Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T02:49:56Z._
