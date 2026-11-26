@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 0 | 0 | 1 | 0 | 0 | 10 |
-| last720d | 2024-12-05 | 0 | 0 | 2 | 0 | 0 | 11 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 0 | 0 | 1 | 0 | 0 | 10 |
+| last720d | 2024-12-06 | 0 | 0 | 2 | 0 | 0 | 11 |
 
 ## Release assets
 
@@ -70,16 +70,6 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [httpstat-1.3.0-py3-none-any.whl](https://github.com/reorx/httpstat/releases/download/1.3.0/httpstat-1.3.0-py3-none-any.whl) | 7.7 KiB | `other` |
 | [httpstat-1.3.0.tar.gz](https://github.com/reorx/httpstat/releases/download/1.3.0/httpstat-1.3.0.tar.gz) | 6.5 KiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/httpstat). **5** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.3.2` | ✅ latest |
-| Nix unstable | `1.3.2` | ✅ latest |
-| Void | `1.2.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -90,4 +80,4 @@ Install metadata for httpstat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T06:19:43Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T06:11:48Z._
